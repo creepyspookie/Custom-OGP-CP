@@ -1,0 +1,1 @@
+Copy the main.php to the panel folder.
