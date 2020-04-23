@@ -1,0 +1,103 @@
+@import url(https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css);
+.bloc2 {
+	background-color: #fff;
+	height: 20em;
+	width: 30em;
+	margin: 10em;
+   	padding:25px 15px 16px 15px;
+	background-color:#FFF;
+	opacity: .6;
+	border-radius:9px;
+	-moz-border-radius: 9px;
+	border:1px solid #C8C8C8;
+	overflow:hidden;
+	text-align:left;
+	font-size:0.9em;
+	color: black;
+	font-family: Cursive;
+	overflow: hidden;
+}
+.bloc2 h4 {
+	font-size:25px;
+	font-family: Cursive;
+	background: none;
+	margin-top: -24px;
+	margin-left:-15px;
+	margin-right:-15px;
+
+}
+.b2-tb {
+    margin-left: 50px;
+	height: 5em;
+}
+.bloc2 a {
+	font-size: 18px;
+	text-decoration:none;
+	margin: 2px;
+}
+
+input[type=text],[type=password] {
+    padding:5px; 
+    border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+input[type=text]:focus {
+    border-color:#333;
+	
+}
+input [type=password]:focus {
+    border-color:#333;
+	
+}
+.bloc2 input[type=submit] {
+padding: 10px 20px 11px !important;
+font-size: 11px ;
+background-color: #3399ff;
+font-weight: bold;
+text-shadow: 1px 1px #3399ff;
+color: #ffffff;
+border-radius: 100px;
+-moz-border-radius: 100px;
+-webkit-border-radius: 100px;
+border: 1px solid #3399ff;
+cursor: pointer;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+.bloc2 input[type=submit]:hover {
+	-moz-box-shadow: 0 0 5px #fff;
+-webkit-box-shadow: 0 0 5px #fff;
+shadow: 50px 50px 5px #000;
+
+}
+.note {
+	background-color: #3399ff;
+	width: 110%;
+	height: 30;
+	margin-top: 9.1em;
+	margin-left:-1.4em;
+	text-align: center;
+	border-left: 3px;
+	border-left-color: white;
+}
+.note a {
+		font-family: Comic Sans MS;
+		text-align: center;
+		color: #ff5050;
+}
+.clinet-msg {
+   background-color: #aed6f1;
+   height: 32px;
+   border-left: 15px solid #3498db ;
+   border-bottom: 2px solid #3498db ; 
+
+}
+.clinet-msg a{
+   margin: 13px;
+  margin-top: 64px;
+   padding: 4px;
+
+}
